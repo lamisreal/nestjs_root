@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "react-ssr-nestjs-starter",
-  "homepage": "https://litcao99.github.io/nestjs_root",
+  "homepage": "https://litcao99.github.io/nestjs_root/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
