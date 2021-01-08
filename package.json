@@ -6,8 +6,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "tsnd --project tsconfig.server.json server/main.ts",
-    "build": "rimraf dist && tsc -p tsconfig.server.json",
-    "start": "cross-env NODE_ENV=production node dist/main.js"
+    "start": "react-scripts cross-env NODE_ENV=production node dist/main.js",
+    "build": "react-scripts rimraf dist && tsc -p tsconfig.server.json"
   },
   "dependencies": {
     "@nestjs/common": "^7.0.6",
