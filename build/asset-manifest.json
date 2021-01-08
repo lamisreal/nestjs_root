@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nestjs_root/static/css/main.fce36487.chunk.css",
+    "main.js": "/nestjs_root/static/js/main.829ea0e8.chunk.js",
+    "main.js.map": "/nestjs_root/static/js/main.829ea0e8.chunk.js.map",
+    "runtime~main.js": "/nestjs_root/static/js/runtime~main.d065f91e.js",
+    "runtime~main.js.map": "/nestjs_root/static/js/runtime~main.d065f91e.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/nestjs_root/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.e034303b.chunk.js": "/nestjs_root/static/js/2.e034303b.chunk.js",
+    "static/js/2.e034303b.chunk.js.map": "/nestjs_root/static/js/2.e034303b.chunk.js.map",
+    "index.html": "/nestjs_root/index.html",
+    "precache-manifest.ea122aa69e34b743485fcaaef8c7d05b.js": "/nestjs_root/precache-manifest.ea122aa69e34b743485fcaaef8c7d05b.js",
+    "service-worker.js": "/nestjs_root/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/nestjs_root/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.fce36487.chunk.css.map": "/nestjs_root/static/css/main.fce36487.chunk.css.map"
+  }
+}
